@@ -1,0 +1,4 @@
+requests>=2.32.3
+isodate>=0.6.1
+pandas>=2.2.3
+pyarrow>=17.0.0
