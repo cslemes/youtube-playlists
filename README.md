@@ -1,1 +1,1 @@
-Script para pegar duração de playlists
+Script para pegar duração de playlists do youtube.
